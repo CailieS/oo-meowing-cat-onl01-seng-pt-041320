@@ -14,7 +14,7 @@ class Cat
   end
 end
   
-  felix = Cat.new 
-  felix.name = "felix"
-  puts felix.name
-  felix.meow
+  # felix = Cat.new 
+  # felix.name = "felix"
+  # puts felix.name
+  # felix.meow
